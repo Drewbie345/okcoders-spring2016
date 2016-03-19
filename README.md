@@ -7,7 +7,8 @@ Week 1 (3/22 & 3/24)
 ------
 
 ### What is the Internet?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7" frameborder="0" allowfullscreen></iframe>
+
+Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7) to get a better understanding of how the internet works.
 
 ### HTML Basics
 
