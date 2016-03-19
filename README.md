@@ -29,7 +29,7 @@ Week 3 (4/5 & 4/7)
 2. Other CSS Frameworks/Libraries
 3. JavaScript 102
 
-Project: Rebuild the static web page from Week #1 & #2 using Twitter Bootstrap.
+Project: Rebuild the static web page from Week #1 using Twitter Bootstrap.
 
 
 Week 4 (4/12 & 4/14)
