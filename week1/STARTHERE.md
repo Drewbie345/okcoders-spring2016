@@ -26,7 +26,7 @@ Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJN
 Project
 -------
 
-![Drew's Page]()
+![Drew's Page](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/drewBioPage.png)
 
 What an awesome webpage!
 
