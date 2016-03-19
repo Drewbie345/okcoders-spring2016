@@ -11,7 +11,7 @@ Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJN
 ### HTML Basics
 
 1. [Getting Started with HTML]()
-2. [Reading on HTML Documents]()
+2. [Reading on HTML Documents](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/htmlReading.md)
 3. Activity #1 - [Build a Webpage]()
 4. Activity #2 - [Troubleshoot HTML Code]()
 5. Activity #3 - [HTML Scavenger Hunt]()
@@ -26,7 +26,11 @@ Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJN
 Project
 -------
 
+![Drew's Page]()
 
+What an awesome webpage!
+
+Design a static bio web page about yourself. Be sure to include 2-3 pictures, 2 headings, and a paragraph or two about you! Use at least 10 different HTML tags. Style the page as well. 
 
 Resources
 ---------
@@ -34,3 +38,4 @@ Resources
 * [Sublime Text](https://www.sublimetext.com/)
 * [Codecademy](https://www.codecademy.com/)
 * [W3Schools](http://www.w3schools.com/)
+* [Hexadecimal Colors](http://www.color-hex.com/)
