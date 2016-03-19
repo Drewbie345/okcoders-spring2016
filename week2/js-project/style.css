@@ -1,0 +1,24 @@
+@import url(https://fonts.googleapis.com/css?family=Lato|Amatic+SC|Asset);
+
+body {
+	background-color: #229dd8;
+	text-align: center;
+}
+
+h1 {
+	font-family: "Asset";
+	font-size: 3em;
+}
+
+.textHere {
+	font-family: "Amatic SC";
+	font-size: 3em;
+}
+
+#btn1 {
+	padding: 15px;
+	margin: 15px;
+	border-radius: 15px;
+	background-color: #45b7c7;
+	border: 2px solid #8581ee;
+}

@@ -20,7 +20,7 @@ Week 2 (3/29 & 3/31)
 2. CSS Advanced
 3. JavaScript 101
 
-Project: Add HTML5 features and advanced CSS to the static web page from Week #1.
+Project: Recreate a static website from a picture using HTML and CSS.
 
 Week 3 (4/5 & 4/7)
 ------

@@ -20,8 +20,9 @@ Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJN
 
 1. [Getting Started with CSS]()
 2. [Reading on CSS]()
-3. Activity #1 - [Add Some Style]()
-4. Activity #2 - [Troubleshoot CSS Code]()
+3. [CSS Inheritance Video](https://youtu.be/Bj2ZCfDPP2A)
+4. Activity #1 - [Add Some Style]()
+5. Activity #2 - [Troubleshoot CSS Code]()
 
 Project
 -------
@@ -31,6 +32,11 @@ Project
 What an awesome webpage!
 
 Design a static bio web page about yourself. Be sure to include 2-3 pictures, 2 headings, and a paragraph or two about you! Use at least 10 different HTML tags. Style the page as well. 
+
+Extend Your Learning
+--------------------
+
+Check out these great [Front-End tutorials](http://learn.shayhowe.com/html-css/) from Shay Howe!
 
 Resources
 ---------
