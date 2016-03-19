@@ -11,9 +11,9 @@ Assignments
 
 ### CSS Advanced
 
-1. [More on CSS - The Box Model]()
-2. [CSS: Position & Layout]()
-3. Activity #1 - [Positioning]()
+1. [More on CSS - The Box Model](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week2/cssReading2.md)
+2. [CSS: Position & Layout](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week2/cssReading3.md)
+3. Activity #1 - [Positioning](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week2/cssActivity1.md)
 
 ### JavaScript 101
 
@@ -24,7 +24,7 @@ Assignments
 Project
 -------
 
-![Website](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week2/Project/eterna.jpg)
+![Website](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week2/HTML-CSS-Project/eterna.jpg)
 
 Your mission is to recreate this static site using your knowledge of HTML and CSS (and your ability to Google what you don't know!). 
 

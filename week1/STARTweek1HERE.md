@@ -19,7 +19,7 @@ Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJN
 ### CSS Basics
 
 1. [Getting Started with CSS]()
-2. [Reading on CSS]()
+2. [Reading on CSS](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/cssReading1.md)
 3. [CSS Inheritance Video](https://youtu.be/Bj2ZCfDPP2A)
 4. Activity #1 - [Add Some Style]()
 5. Activity #2 - [Troubleshoot CSS Code]()
