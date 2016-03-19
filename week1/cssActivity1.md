@@ -32,4 +32,4 @@ CSS Activity #1
 
 4. EXTENSION #1: Add an id selector to one of your list items and a class selector to the other list items. Using these selectors, add two different CSS styles.
 
-5. EXTENSION #2: Update your bio page from the HTML Activity #1 by adding CSS styles to it.
+5. EXTENSION #2: Update your web page from the HTML Activity #1 by adding CSS styles to it.
