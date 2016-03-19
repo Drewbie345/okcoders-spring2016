@@ -12,16 +12,15 @@ Watch [this series of videos](https://www.youtube.com/playlist?list=PLzdnOPI1iJN
 
 1. [Mozilla X-Ray Goggles](https://goggles.mozilla.org/) - Use X-Ray Goggles to Hack a News Site like CNN or Tulsa World.
 2. [Reading on HTML Documents](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/htmlReading.md)
-3. Activity #1 - [Build a Webpage]()
+3. Activity #1 - [Build a Webpage](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/htmlActivity1.md)
 
 
 ### CSS Basics
 
-1. [Getting Started with CSS]()
-2. [Reading on CSS](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/cssReading1.md)
-3. [CSS Inheritance Video](https://youtu.be/Bj2ZCfDPP2A)
-4. Activity #1 - [Add Some Style]()
-5. Activity #2 - [CSS Classes & Selectors]()
+1. [Reading on CSS](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/cssReading1.md)
+2. [CSS Inheritance Video](https://youtu.be/Bj2ZCfDPP2A)
+3. Activity #1 - [Add Some Style](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/cssActivity1.md)
+4. Activity #2 - [CSS Classes & Selectors](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week1/cssActivity2.md)
 
 Project
 -------
