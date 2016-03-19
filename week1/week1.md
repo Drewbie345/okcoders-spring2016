@@ -31,6 +31,6 @@ Project
 Resources
 ---------
 
-Sublime Text
-Codecademy
-W3Schools
+* [Sublime Text](https://www.sublimetext.com/)
+* [Codecademy](https://www.codecademy.com/)
+* [W3Schools](http://www.w3schools.com/)

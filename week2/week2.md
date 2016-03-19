@@ -10,7 +10,7 @@ Check out [this video on HTML5](https://youtu.be/IsXEVQRaTX8) -- the first 4 min
 Project
 -------
 
-![Website]()
+![Website](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week2/Project/eterna.jpg)
 
 Your mission is to recreate this static site using your knowledge of HTML and CSS (and your ability to Google what you don't know!).
 
