@@ -1,4 +1,4 @@
-JavaScript Activities #4
+JavaScript Activities #3
 ========================
 
 1. Create an object that stores your name, age, and occupation. Print out your age out in the console.
