@@ -28,3 +28,5 @@ Resources
 * [Bootstrap Tutorials](http://www.w3schools.com/bootstrap/bootstrap_forms.asp)
 * [Why the Bootstrap Grid Works](http://www.helloerik.com/the-subtle-magic-behind-why-the-bootstrap-3-grid-works)
 * [A More General Article on CSS Grids](http://www.sitepoint.com/understanding-css-grid-systems/)
+* [Try Git](https://try.github.io/levels/1/challenges/1)
+* [Learn Command Line](http://cli.learncodethehardway.org/book/)
