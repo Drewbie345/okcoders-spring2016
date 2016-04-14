@@ -21,6 +21,7 @@ Assignments
 1. [Codecademy AngularJS](https://www.codecademy.com/learn/learn-angularjs)
 2. [Thinkster AngularJS](https://thinkster.io/a-better-way-to-learn-angularjs)
 3. [Learn AngularJS](http://www.learn-angular.org/)
+4. [CodeSchool - AngularJS](https://www.codeschool.com/courses/shaping-up-with-angular-js)
 
 Resources
 ---------
