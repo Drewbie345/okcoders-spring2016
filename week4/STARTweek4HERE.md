@@ -1,4 +1,4 @@
-Week #3
+Week #4
 =======
 
 Assignments
@@ -9,6 +9,8 @@ Assignments
 1. [JavaScript Activity #1](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsActivity1.md)
 2. [JavaScript Activity #2](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsActivity2.md)
 3. [JavaScript Activity #3](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsActivity3.md)
+
+[THE JAVASCRIPT CHALLENGE](https://github.com/Drewbie345/okcoders-spring2016/blob/master/week4/jsChallenge1.md)
 
 ### Twitter Bootstrap
 
