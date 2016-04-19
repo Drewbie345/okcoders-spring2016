@@ -21,5 +21,6 @@ AngularJS
 1. [Work through this tutorial](http://nicholasjohnson.com/blog/angularjs-step-by-logical-step/)
 
 NOTE: Include the following code snippet to run AngularJS...
+
 ``<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js"></script>``
 
