@@ -4,7 +4,7 @@ Week #6
 AngularJS
 ---------
 
-* Finish the To Do App from Week #5
+* [Finish the To Do App from Week #5](https://angularjs.org/)
 * Work through the examples in this tutorial on your own computer: [W3Schools](http://www.w3schools.com/angular/)
 
 NOTE: I will be working through several of these examples in class.
